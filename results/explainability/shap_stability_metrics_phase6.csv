@@ -1,0 +1,4 @@
+Metric,Value
+Mean Spearman Rank Correlation,0.5324336381150019
+Mean Top-K Feature Overlap,0.945
+Mean SHAP Importance Variance,0.00033361248815575237
