@@ -1,0 +1,2 @@
+Model,Accuracy,Macro_F1,Dropout,Epochs,Batch_Size,Loss_Function,Device
+1D CNN (Smoothed Weights),0.76166607523066,0.7174075452047485,0.5,12,256,CrossEntropy (Smoothed Weights),cuda
