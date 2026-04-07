@@ -1,0 +1,2 @@
+Mode,Total_Inference_Time_sec,Time_per_Sample_ms,Throughput_samples_per_sec,Batch_Size,Device
+Batch_256,0.1792612075805664,0.007951614956554578,125760.61661231374,256,cuda

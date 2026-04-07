@@ -1,0 +1,2 @@
+Model,Total_Time_sec,Time_per_Sample_ms,Throughput_samples_per_sec,Batch_Size
+ONNX Runtime,1.4769635200500488,0.06551470546708875,15263.748693831021,256
