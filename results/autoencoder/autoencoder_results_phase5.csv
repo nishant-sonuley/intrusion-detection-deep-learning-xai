@@ -1,0 +1,2 @@
+Model,Accuracy,Macro_F1,Threshold
+Autoencoder (95th percentile threshold),0.91,0.89,0.008323205
